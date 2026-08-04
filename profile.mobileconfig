@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Custom DNS Configuration for YUSEEFSTORE</string>
+            <key>PayloadDisplayName</key>
+            <string>YUSEEFSTORE DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.yuseefstore.dns.profile</string>
+            <key>PayloadType</key>
+            <string>com.apple.transparentdns.managed</string>
+            <key>PayloadUUID</key>
+            <string>8A2326C1-2026-4F1E-9C21-123456789ABC</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ServerAddresses</key>
+            <array>
+                <string>1.1.1.1</string>
+                <string>8.8.8.8</string>
+            </array>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>YUSEEFSTORE Anti-Revoke and DNS Profile - Valid for 1 Year</string>
+    <key>PayloadDisplayName</key>
+    <string>YUSEEFSTORE</string>
+    <key>PayloadIdentifier</key>
+    <string>com.yuseefstore.config</string>
+    <key>PayloadOrganization</key>
+    <string>YUSEEFSTORE</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadRemovalDate</key>
+    <date>2027-08-04T03:52:58Z</date>
+    <key>PayloadUUID</key>
+    <string>1C456789-2026-4ABC-8DEF-123456789ABC</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
